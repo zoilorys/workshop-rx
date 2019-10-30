@@ -1,0 +1,14 @@
+.section {
+  .section-header {
+    position: relative;
+    padding: var(--default-title-pad);
+    background-color: var(--secondary-bg-color);
+
+    box-shadow: var(--shadow);
+
+  }
+
+  .section-list {
+    padding: var(--default-pad);
+  }
+}

@@ -1,0 +1,22 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+}
+
+html {
+  --primary-bg-color: #222227;
+  --secondary-bg-color: #141314;
+
+  --primary-text-color: #cacaca;
+  --secondary-text-color: #fff;
+
+  --shadow: 0 0 5px 0 rgba(0, 0, 0, 0.4);
+  --default-title-pad: 10px 20px;
+  --default-pad: 15px;
+
+  font-family: Courier New, Arial, sans-serif;
+  color: var(--primary-text-color);
+}
+
